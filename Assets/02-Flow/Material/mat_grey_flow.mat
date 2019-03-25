@@ -73,6 +73,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 679934f1062bb0146a2a460cebe0f51f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _MainTex123:
+        m_Texture: {fileID: 2800000, guid: 679934f1062bb0146a2a460cebe0f51f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MaskMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -122,7 +126,7 @@ Material:
     - _AlphaCutoffPostpass: 0.5
     - _AlphaCutoffPrepass: 0.5
     - _AlphaCutoffShadow: 0.5
-    - _Angle: 0
+    - _Angle: 153
     - _Anisotropy: 0
     - _BlendMode: 0
     - _CoatMask: 0
@@ -181,7 +185,7 @@ Material:
     - _LinkDetailsWithBase: 1
     - _MaterialID: 1
     - _Metallic: 0
-    - _Narrow: 4.538149
+    - _Narrow: 3.16
     - _NormalMapSpace: 0
     - _NormalScale: 1
     - _PPDLodThreshold: 5
@@ -200,7 +204,7 @@ Material:
     - _SmoothnessRemapMin: 0
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
-    - _Speed: 2.3
+    - _Speed: 1.8
     - _SrcBlend: 1
     - _StencilRef: 2
     - _StencilRefMV: 128
@@ -232,11 +236,12 @@ Material:
     - Color_7C167013: {r: 22.030489, g: 14.808547, b: 3.6371086, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.8679245, g: 0.8679245, b: 0.8679245, a: 0}
+    - _Color123: {r: 1, g: 1, b: 1, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FlowColor: {r: 12.996038, g: 12.996038, b: 12.996038, a: 0}
+    - _FlowColor: {r: 6.3213615, g: 0.10087279, b: 0.10087279, a: 0}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
