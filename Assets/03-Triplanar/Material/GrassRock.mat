@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GrassRock
+  m_Shader: {fileID: 4800000, guid: 27dba0fc44a982e48bf61f66d838249d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_4D612ED2:
+        m_Texture: {fileID: 2800000, guid: 76848e5835157b6418fc4538f9e68168, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_AFE245D6:
+        m_Texture: {fileID: 2800000, guid: 903b512cd524b854b99c3e2bf253d06c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_19EED069: 0.8
+    - Vector1_1AAAA2D3: 5
+    - Vector1_43FEDD09: 1
+    m_Colors:
+    - Vector2_9F0D72BC: {r: 5, g: 5, b: 0, a: 0}
