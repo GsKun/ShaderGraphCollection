@@ -1,12 +1,17 @@
 #  ShaderGraphCollection
 
-01-Toon
+Project files for my tutorials on using Shader Graph in Unity.
 
-02-Flow
+Contains:
 
-03-Triplanar
+- Toon
+- Flow
+- Triplanar
+- Flag
 
+Check out my [Bilibili Channel](https://space.bilibili.com/164506/video) for more tutorials.
 
+Everything is free to use, also commercially (public domain).
 
 
 
