@@ -1,4 +1,4 @@
-Shader "Custom/Test"
+Shader "Custom/Optimization"
 {
     Properties
     {
