@@ -8,6 +8,7 @@ Contains:
 - Flow
 - Triplanar
 - Flag
+- Optimization
 
 Check out my [Bilibili Channel](https://space.bilibili.com/164506/video) for more tutorials.
 
