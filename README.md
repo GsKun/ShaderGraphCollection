@@ -9,7 +9,8 @@ Contains:
 - Triplanar
 - Flag
 - Optimization
-- EllipseMask
+- Grayscale
+- BlackHole
 
 Check out my [Bilibili Channel](https://space.bilibili.com/164506/video) for more tutorials.
 
