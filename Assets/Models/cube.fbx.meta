@@ -1,0 +1,869 @@
+fileFormatVersion: 2
+guid: cc7bf13c17cf3544194154a94a9aeb01
+timeCreated: 1474993108
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: background
+    100002: background 1
+    100004: best
+    100006: best 1
+    100008: best_text
+    100010: best_text 1
+    100012: bnt_1
+    100014: btn_2
+    100016: btn_3
+    100018: btn_4
+    100020: btn_5
+    100022: btn_6
+    100024: btn_7
+    100026: btn_gift
+    100028: btn_gift 1
+    100030: btn_new_char
+    100032: btn_noads
+    100034: btn_pause
+    100036: btn_play
+    100038: btn_restore
+    100040: btn_reward
+    100042: btn_select
+    100044: Button
+    100046: Button 1
+    100048: Button 10
+    100050: Button 11
+    100052: Button 2
+    100054: Button 3
+    100056: Button 4
+    100058: Button 5
+    100060: Button 6
+    100062: Button 7
+    100064: Button 8
+    100066: Button 9
+    100068: BUTTONS
+    100070: Chars
+    100072: CharSelect
+    100074: CharSelect_Walls
+    100076: Circle
+    100078: Cube
+    100080: //RootNode
+    100082: cube
+    100084: cube 1
+    100086: cube 10
+    100088: cube 11
+    100090: cube 12
+    100092: cube 13
+    100094: cube 14
+    100096: cube 15
+    100098: cube 16
+    100100: cube 17
+    100102: cube 18
+    100104: cube 19
+    100106: cube 2
+    100108: cube 20
+    100110: cube 21
+    100112: cube 3
+    100114: cube 4
+    100116: cube 5
+    100118: cube 6
+    100120: cube 7
+    100122: cube 8
+    100124: cube 9
+    100126: Cube0
+    100128: Cube1
+    100130: Cube1 (1)
+    100132: Cube1 (10)
+    100134: Cube1 (11)
+    100136: Cube1 (12)
+    100138: Cube1 (13)
+    100140: Cube1 (14)
+    100142: Cube1 (15)
+    100144: Cube1 (16)
+    100146: Cube1 (17)
+    100148: Cube1 (18)
+    100150: Cube1 (19)
+    100152: Cube1 (2)
+    100154: Cube1 (3)
+    100156: Cube1 (4)
+    100158: Cube1 (5)
+    100160: Cube1 (6)
+    100162: Cube1 (7)
+    100164: Cube1 (8)
+    100166: Cube1 (9)
+    100168: cube_battery
+    100170: cube_books
+    100172: cube_box
+    100174: cube_bread
+    100176: cube_brick
+    100178: cube_cake
+    100180: cube_car
+    100182: cube_cheese
+    100184: cube_dice
+    100186: cube_fruit
+    100188: cube_hamburger
+    100190: cube_icecube
+    100192: cube_jar
+    100194: cube_mushroom
+    100196: cube_pilis
+    100198: cube_safe
+    100200: cube_sushi
+    100202: cube_toster
+    100204: cube_watermelon
+    100206: CubeVisual
+    100208: Directional Light
+    100210: EventSystem
+    100212: facebook
+    100214: Frame
+    100216: Gem
+    100218: gem
+    100220: gem 1
+    100222: gem 2
+    100224: gem 3
+    100226: gem_glow
+    100228: gem_light
+    100230: gem_text
+    100232: gem_text_pictures
+    100234: gems
+    100236: Gems_text
+    100238: Gems_text 1
+    100240: Gems_text 2
+    100242: GemsNumbers
+    100244: GemsObject
+    100246: gift
+    100248: gift 1
+    100250: glow
+    100252: highlight_left
+    100254: highlight_right
+    100256: highlights
+    100258: Image
+    100260: Localizations
+    100262: logo
+    100264: logo 1
+    100266: logo 2
+    100268: Main Camera
+    100270: moving_spikes
+    100272: moving_spikes_a2
+    100274: moving_spikes_b
+    100276: new_char
+    100278: new_char 1
+    100280: No1
+    100282: No2
+    100284: No3
+    100286: No4
+    100288: No5
+    100290: normal2_a2
+    100292: normal2_a2 1
+    100294: normal2_a2 10
+    100296: normal2_a2 11
+    100298: normal2_a2 12
+    100300: normal2_a2 13
+    100302: normal2_a2 14
+    100304: normal2_a2 15
+    100306: normal2_a2 2
+    100308: normal2_a2 3
+    100310: normal2_a2 4
+    100312: normal2_a2 5
+    100314: normal2_a2 6
+    100316: normal2_a2 7
+    100318: normal2_a2 8
+    100320: normal2_a2 9
+    100322: normal_a2
+    100324: normal_a2 1
+    100326: normal_a2 10
+    100328: normal_a2 11
+    100330: normal_a2 12
+    100332: normal_a2 13
+    100334: normal_a2 14
+    100336: normal_a2 15
+    100338: normal_a2 16
+    100340: normal_a2 17
+    100342: normal_a2 2
+    100344: normal_a2 3
+    100346: normal_a2 4
+    100348: normal_a2 5
+    100350: normal_a2 6
+    100352: normal_a2 7
+    100354: normal_a2 8
+    100356: normal_a2 9
+    100358: pause_big
+    100360: PauseGameListener
+    100362: price
+    100364: RawImage
+    100366: RefsAndManagers
+    100368: reward
+    100370: score
+    100372: score0
+    100374: score0 (1)
+    100376: score0 (2)
+    100378: score0 (3)
+    100380: score_text
+    100382: ScoreContainer
+    100384: ScreenShotBig
+    100386: ScreenShotSmall
+    100388: SetupGame
+    100390: smashing_spikes
+    100392: smashing_spikes_a2
+    100394: smashing_spikes_b
+    100396: Sounds
+    100398: targetpoint
+    100400: Text
+    100402: Text (1)
+    100404: Text (2)
+    100406: tile_empty
+    100408: tile_grey
+    100410: tile_grey (13)
+    100412: tile_grey (14)
+    100414: tile_grey (15)
+    100416: tile_grey (16)
+    100418: tile_grey (17)
+    100420: tile_grey (18)
+    100422: tile_grey (19)
+    100424: tile_grey (20)
+    100426: tile_grey (21)
+    100428: tile_grey (4)
+    100430: tile_grey (5)
+    100432: tile_grey (6)
+    100434: tile_grey (7)
+    100436: tile_grey (9)
+    100438: tile_grey 1
+    100440: tile_white
+    100442: tile_white (1)
+    100444: tile_white (10)
+    100446: tile_white (13)
+    100448: tile_white (14)
+    100450: tile_white (15)
+    100452: tile_white (16)
+    100454: tile_white (17)
+    100456: tile_white (18)
+    100458: tile_white (19)
+    100460: tile_white (20)
+    100462: tile_white (21)
+    100464: tile_white (22)
+    100466: tile_white (3)
+    100468: tile_white (4)
+    100470: tile_white (5)
+    100472: tile_white (8)
+    100474: tile_white (9)
+    100476: tutorial_cube_left
+    100478: tutorial_cube_right
+    100480: tutorial_finger_left
+    100482: tutorial_finger_right
+    100484: tutorial_line
+    100486: UI_background
+    100488: UI_Buttons
+    100490: UI_CharSelect
+    100492: UI_End
+    100494: UI_Gems
+    100496: UI_InGameScore
+    100498: UI_Logo
+    100500: UI_Pause
+    100502: UI_Pause_BTN
+    100504: UI_tutorial
+    100506: UI_tutorialMain
+    100508: Visual
+    100510: Visual 1
+    100512: wall
+    100514: wall2
+    400000: background
+    400002: background 1
+    400004: best
+    400006: best 1
+    400008: best_text
+    400010: best_text 1
+    400012: bnt_1
+    400014: btn_2
+    400016: btn_3
+    400018: btn_4
+    400020: btn_5
+    400022: btn_6
+    400024: btn_7
+    400026: btn_gift
+    400028: btn_gift 1
+    400030: btn_new_char
+    400032: btn_noads
+    400034: btn_pause
+    400036: btn_play
+    400038: btn_restore
+    400040: btn_reward
+    400042: btn_select
+    400044: Button
+    400046: Button 1
+    400048: Button 10
+    400050: Button 11
+    400052: Button 2
+    400054: Button 3
+    400056: Button 4
+    400058: Button 5
+    400060: Button 6
+    400062: Button 7
+    400064: Button 8
+    400066: Button 9
+    400068: BUTTONS
+    400070: Chars
+    400072: CharSelect
+    400074: CharSelect_Walls
+    400076: Circle
+    400078: Cube
+    400080: //RootNode
+    400082: cube
+    400084: cube 1
+    400086: cube 10
+    400088: cube 11
+    400090: cube 12
+    400092: cube 13
+    400094: cube 14
+    400096: cube 15
+    400098: cube 16
+    400100: cube 17
+    400102: cube 18
+    400104: cube 19
+    400106: cube 2
+    400108: cube 20
+    400110: cube 21
+    400112: cube 3
+    400114: cube 4
+    400116: cube 5
+    400118: cube 6
+    400120: cube 7
+    400122: cube 8
+    400124: cube 9
+    400126: Cube0
+    400128: Cube1
+    400130: Cube1 (1)
+    400132: Cube1 (10)
+    400134: Cube1 (11)
+    400136: Cube1 (12)
+    400138: Cube1 (13)
+    400140: Cube1 (14)
+    400142: Cube1 (15)
+    400144: Cube1 (16)
+    400146: Cube1 (17)
+    400148: Cube1 (18)
+    400150: Cube1 (19)
+    400152: Cube1 (2)
+    400154: Cube1 (3)
+    400156: Cube1 (4)
+    400158: Cube1 (5)
+    400160: Cube1 (6)
+    400162: Cube1 (7)
+    400164: Cube1 (8)
+    400166: Cube1 (9)
+    400168: cube_battery
+    400170: cube_books
+    400172: cube_box
+    400174: cube_bread
+    400176: cube_brick
+    400178: cube_cake
+    400180: cube_car
+    400182: cube_cheese
+    400184: cube_dice
+    400186: cube_fruit
+    400188: cube_hamburger
+    400190: cube_icecube
+    400192: cube_jar
+    400194: cube_mushroom
+    400196: cube_pilis
+    400198: cube_safe
+    400200: cube_sushi
+    400202: cube_toster
+    400204: cube_watermelon
+    400206: CubeVisual
+    400208: Directional Light
+    400210: EventSystem
+    400212: facebook
+    400214: Frame
+    400216: Gem
+    400218: gem
+    400220: gem 1
+    400222: gem 2
+    400224: gem 3
+    400226: gem_glow
+    400228: gem_light
+    400230: gem_text
+    400232: gem_text_pictures
+    400234: gems
+    400236: Gems_text
+    400238: Gems_text 1
+    400240: Gems_text 2
+    400242: GemsNumbers
+    400244: GemsObject
+    400246: gift
+    400248: gift 1
+    400250: glow
+    400252: highlight_left
+    400254: highlight_right
+    400256: highlights
+    400258: Image
+    400260: Localizations
+    400262: logo
+    400264: logo 1
+    400266: logo 2
+    400268: Main Camera
+    400270: moving_spikes
+    400272: moving_spikes_a2
+    400274: moving_spikes_b
+    400276: new_char
+    400278: new_char 1
+    400280: No1
+    400282: No2
+    400284: No3
+    400286: No4
+    400288: No5
+    400290: normal2_a2
+    400292: normal2_a2 1
+    400294: normal2_a2 10
+    400296: normal2_a2 11
+    400298: normal2_a2 12
+    400300: normal2_a2 13
+    400302: normal2_a2 14
+    400304: normal2_a2 15
+    400306: normal2_a2 2
+    400308: normal2_a2 3
+    400310: normal2_a2 4
+    400312: normal2_a2 5
+    400314: normal2_a2 6
+    400316: normal2_a2 7
+    400318: normal2_a2 8
+    400320: normal2_a2 9
+    400322: normal_a2
+    400324: normal_a2 1
+    400326: normal_a2 10
+    400328: normal_a2 11
+    400330: normal_a2 12
+    400332: normal_a2 13
+    400334: normal_a2 14
+    400336: normal_a2 15
+    400338: normal_a2 16
+    400340: normal_a2 17
+    400342: normal_a2 2
+    400344: normal_a2 3
+    400346: normal_a2 4
+    400348: normal_a2 5
+    400350: normal_a2 6
+    400352: normal_a2 7
+    400354: normal_a2 8
+    400356: normal_a2 9
+    400358: pause_big
+    400360: PauseGameListener
+    400362: price
+    400364: RawImage
+    400366: RefsAndManagers
+    400368: reward
+    400370: score
+    400372: score0
+    400374: score0 (1)
+    400376: score0 (2)
+    400378: score0 (3)
+    400380: score_text
+    400382: ScoreContainer
+    400384: ScreenShotBig
+    400386: ScreenShotSmall
+    400388: SetupGame
+    400390: smashing_spikes
+    400392: smashing_spikes_a2
+    400394: smashing_spikes_b
+    400396: Sounds
+    400398: targetpoint
+    400400: Text
+    400402: Text (1)
+    400404: Text (2)
+    400406: tile_empty
+    400408: tile_grey
+    400410: tile_grey (13)
+    400412: tile_grey (14)
+    400414: tile_grey (15)
+    400416: tile_grey (16)
+    400418: tile_grey (17)
+    400420: tile_grey (18)
+    400422: tile_grey (19)
+    400424: tile_grey (20)
+    400426: tile_grey (21)
+    400428: tile_grey (4)
+    400430: tile_grey (5)
+    400432: tile_grey (6)
+    400434: tile_grey (7)
+    400436: tile_grey (9)
+    400438: tile_grey 1
+    400440: tile_white
+    400442: tile_white (1)
+    400444: tile_white (10)
+    400446: tile_white (13)
+    400448: tile_white (14)
+    400450: tile_white (15)
+    400452: tile_white (16)
+    400454: tile_white (17)
+    400456: tile_white (18)
+    400458: tile_white (19)
+    400460: tile_white (20)
+    400462: tile_white (21)
+    400464: tile_white (22)
+    400466: tile_white (3)
+    400468: tile_white (4)
+    400470: tile_white (5)
+    400472: tile_white (8)
+    400474: tile_white (9)
+    400476: tutorial_cube_left
+    400478: tutorial_cube_right
+    400480: tutorial_finger_left
+    400482: tutorial_finger_right
+    400484: tutorial_line
+    400486: UI_background
+    400488: UI_Buttons
+    400490: UI_CharSelect
+    400492: UI_End
+    400494: UI_Gems
+    400496: UI_InGameScore
+    400498: UI_Logo
+    400500: UI_Pause
+    400502: UI_Pause_BTN
+    400504: UI_tutorial
+    400506: UI_tutorialMain
+    400508: Visual
+    400510: Visual 1
+    400512: wall
+    400514: wall2
+    2300000: cube
+    2300002: cube 1
+    2300004: cube 10
+    2300006: cube 11
+    2300008: cube 12
+    2300010: cube 13
+    2300012: cube 14
+    2300014: cube 15
+    2300016: cube 16
+    2300018: cube 17
+    2300020: cube 18
+    2300022: cube 19
+    2300024: cube 2
+    2300026: cube 20
+    2300028: cube 21
+    2300030: cube 3
+    2300032: cube 4
+    2300034: cube 5
+    2300036: cube 6
+    2300038: cube 7
+    2300040: cube 8
+    2300042: cube 9
+    2300044: cube_battery
+    2300046: cube_books
+    2300048: cube_box
+    2300050: cube_bread
+    2300052: cube_brick
+    2300054: cube_cake
+    2300056: cube_car
+    2300058: cube_cheese
+    2300060: cube_dice
+    2300062: cube_fruit
+    2300064: cube_hamburger
+    2300066: cube_icecube
+    2300068: cube_jar
+    2300070: cube_mushroom
+    2300072: cube_pilis
+    2300074: cube_safe
+    2300076: cube_sushi
+    2300078: cube_toster
+    2300080: cube_watermelon
+    2300082: CubeVisual
+    2300084: facebook
+    2300086: gem 3
+    2300088: gem_light
+    2300090: highlight_left
+    2300092: highlight_right
+    2300094: moving_spikes
+    2300096: moving_spikes_a2
+    2300098: moving_spikes_b
+    2300100: normal2_a2
+    2300102: normal2_a2 1
+    2300104: normal2_a2 10
+    2300106: normal2_a2 11
+    2300108: normal2_a2 12
+    2300110: normal2_a2 13
+    2300112: normal2_a2 14
+    2300114: normal2_a2 15
+    2300116: normal2_a2 2
+    2300118: normal2_a2 3
+    2300120: normal2_a2 4
+    2300122: normal2_a2 5
+    2300124: normal2_a2 6
+    2300126: normal2_a2 7
+    2300128: normal2_a2 8
+    2300130: normal2_a2 9
+    2300132: normal_a2
+    2300134: normal_a2 1
+    2300136: normal_a2 10
+    2300138: normal_a2 11
+    2300140: normal_a2 12
+    2300142: normal_a2 13
+    2300144: normal_a2 14
+    2300146: normal_a2 15
+    2300148: normal_a2 16
+    2300150: normal_a2 17
+    2300152: normal_a2 2
+    2300154: normal_a2 3
+    2300156: normal_a2 4
+    2300158: normal_a2 5
+    2300160: normal_a2 6
+    2300162: normal_a2 7
+    2300164: normal_a2 8
+    2300166: normal_a2 9
+    2300168: smashing_spikes
+    2300170: smashing_spikes_a2
+    2300172: smashing_spikes_b
+    2300174: tile_grey
+    2300176: tile_grey (13)
+    2300178: tile_grey (14)
+    2300180: tile_grey (15)
+    2300182: tile_grey (16)
+    2300184: tile_grey (17)
+    2300186: tile_grey (18)
+    2300188: tile_grey (19)
+    2300190: tile_grey (20)
+    2300192: tile_grey (21)
+    2300194: tile_grey (4)
+    2300196: tile_grey (5)
+    2300198: tile_grey (6)
+    2300200: tile_grey (7)
+    2300202: tile_grey (9)
+    2300204: tile_grey 1
+    2300206: tile_white
+    2300208: tile_white (1)
+    2300210: tile_white (10)
+    2300212: tile_white (13)
+    2300214: tile_white (14)
+    2300216: tile_white (15)
+    2300218: tile_white (16)
+    2300220: tile_white (17)
+    2300222: tile_white (18)
+    2300224: tile_white (19)
+    2300226: tile_white (20)
+    2300228: tile_white (21)
+    2300230: tile_white (22)
+    2300232: tile_white (3)
+    2300234: tile_white (4)
+    2300236: tile_white (5)
+    2300238: tile_white (8)
+    2300240: tile_white (9)
+    2300242: wall
+    2300244: wall2
+    3300000: cube
+    3300002: cube 1
+    3300004: cube 10
+    3300006: cube 11
+    3300008: cube 12
+    3300010: cube 13
+    3300012: cube 14
+    3300014: cube 15
+    3300016: cube 16
+    3300018: cube 17
+    3300020: cube 18
+    3300022: cube 19
+    3300024: cube 2
+    3300026: cube 20
+    3300028: cube 21
+    3300030: cube 3
+    3300032: cube 4
+    3300034: cube 5
+    3300036: cube 6
+    3300038: cube 7
+    3300040: cube 8
+    3300042: cube 9
+    3300044: cube_battery
+    3300046: cube_books
+    3300048: cube_box
+    3300050: cube_bread
+    3300052: cube_brick
+    3300054: cube_cake
+    3300056: cube_car
+    3300058: cube_cheese
+    3300060: cube_dice
+    3300062: cube_fruit
+    3300064: cube_hamburger
+    3300066: cube_icecube
+    3300068: cube_jar
+    3300070: cube_mushroom
+    3300072: cube_pilis
+    3300074: cube_safe
+    3300076: cube_sushi
+    3300078: cube_toster
+    3300080: cube_watermelon
+    3300082: CubeVisual
+    3300084: facebook
+    3300086: gem 3
+    3300088: gem_light
+    3300090: highlight_left
+    3300092: highlight_right
+    3300094: moving_spikes
+    3300096: moving_spikes_a2
+    3300098: moving_spikes_b
+    3300100: normal2_a2
+    3300102: normal2_a2 1
+    3300104: normal2_a2 10
+    3300106: normal2_a2 11
+    3300108: normal2_a2 12
+    3300110: normal2_a2 13
+    3300112: normal2_a2 14
+    3300114: normal2_a2 15
+    3300116: normal2_a2 2
+    3300118: normal2_a2 3
+    3300120: normal2_a2 4
+    3300122: normal2_a2 5
+    3300124: normal2_a2 6
+    3300126: normal2_a2 7
+    3300128: normal2_a2 8
+    3300130: normal2_a2 9
+    3300132: normal_a2
+    3300134: normal_a2 1
+    3300136: normal_a2 10
+    3300138: normal_a2 11
+    3300140: normal_a2 12
+    3300142: normal_a2 13
+    3300144: normal_a2 14
+    3300146: normal_a2 15
+    3300148: normal_a2 16
+    3300150: normal_a2 17
+    3300152: normal_a2 2
+    3300154: normal_a2 3
+    3300156: normal_a2 4
+    3300158: normal_a2 5
+    3300160: normal_a2 6
+    3300162: normal_a2 7
+    3300164: normal_a2 8
+    3300166: normal_a2 9
+    3300168: smashing_spikes
+    3300170: smashing_spikes_a2
+    3300172: smashing_spikes_b
+    3300174: tile_grey
+    3300176: tile_grey (13)
+    3300178: tile_grey (14)
+    3300180: tile_grey (15)
+    3300182: tile_grey (16)
+    3300184: tile_grey (17)
+    3300186: tile_grey (18)
+    3300188: tile_grey (19)
+    3300190: tile_grey (20)
+    3300192: tile_grey (21)
+    3300194: tile_grey (4)
+    3300196: tile_grey (5)
+    3300198: tile_grey (6)
+    3300200: tile_grey (7)
+    3300202: tile_grey (9)
+    3300204: tile_grey 1
+    3300206: tile_white
+    3300208: tile_white (1)
+    3300210: tile_white (10)
+    3300212: tile_white (13)
+    3300214: tile_white (14)
+    3300216: tile_white (15)
+    3300218: tile_white (16)
+    3300220: tile_white (17)
+    3300222: tile_white (18)
+    3300224: tile_white (19)
+    3300226: tile_white (20)
+    3300228: tile_white (21)
+    3300230: tile_white (22)
+    3300232: tile_white (3)
+    3300234: tile_white (4)
+    3300236: tile_white (5)
+    3300238: tile_white (8)
+    3300240: tile_white (9)
+    3300242: wall
+    3300244: wall2
+    4300000: CubeVisual
+    4300002: facebook
+    4300004: tile_white (3)
+    4300006: normal_a2
+    4300008: tile_grey (9)
+    4300010: normal2_a2
+    4300012: highlight_left
+    4300014: cube_jar
+    4300016: cube_brick
+    4300018: cube_bread
+    4300020: cube_cheese
+    4300022: cube_fruit
+    4300024: cube_car
+    4300026: cube_toster
+    4300028: cube_battery
+    4300030: cube_icecube
+    4300032: cube_dice
+    4300034: cube_safe
+    4300036: cube_hamburger
+    4300038: cube_cake
+    4300040: cube_pilis
+    4300042: cube_watermelon
+    4300044: cube_mushroom
+    4300046: cube_sushi
+    4300048: cube_books
+    4300050: cube_box
+    4300052: smashing_spikes
+    4300054: smashing_spikes_b
+    4300056: smashing_spikes_a2
+    4300058: wall2
+    4300060: gem_light
+    4300062: gem
+    4300064: moving_spikes
+    4300066: moving_spikes_a2
+    4300068: moving_spikes_b
+    4300070: wall
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

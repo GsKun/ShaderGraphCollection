@@ -16,7 +16,9 @@ Contains:
 
 Check out my [Bilibili Channel](https://space.bilibili.com/164506/video) for more tutorials.
 
-Everything is free to use, also commercially (public domain).
+
+
+**Unity 2018.3.8f1 or newer is required.**
 
 
 
