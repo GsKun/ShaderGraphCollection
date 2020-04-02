@@ -1,6 +1,6 @@
 #  ShaderGraphCollection
 
-Project files for my tutorials on using Shader Graph in Unity.
+Project files for my tutorials on using ShaderGraph in Unity.
 
 Contains:
 
@@ -10,9 +10,10 @@ Contains:
 - Flag
 - Optimization
 - Grayscale
-- BlackHole
 - Distort
 - ForceField
+- Bastion
+- BlockHole
 
 Check out my [Bilibili Channel](https://space.bilibili.com/164506/video) for more tutorials.
 
